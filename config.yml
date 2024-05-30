@@ -1,0 +1,4 @@
+blacklist:
+  ARMOR_STAND:
+    limit: 15
+    period: 3600  # 1 hour in seconds
